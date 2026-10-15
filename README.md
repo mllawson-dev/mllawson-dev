@@ -10,9 +10,9 @@ I'm currently a Frontend Development Intern at The Social NFT Marketplace, build
 
 | Project | What it shows | Links |
 |---|---|---|
-| **Forge City Circuit** | A single-page app with no framework: a hand-written hash router and a JSON data layer that drives standings, schedules and playoff brackets | [Live](https://forge-city-circuit.vercel.app/) · [Case study](https://www.mll-creativeeng.com/case-studies/forge-city-circuit/) · [Code](https://github.com/mllawson-dev/forge-city-circuit) |
-| **Waymark** | A multi-route React and TypeScript app built on a documented component library and design tokens, with 121 tests | [Live](https://waymark-steel.vercel.app/) · [Case study](https://www.mll-creativeeng.com/case-studies/waymark/) · [Code](https://github.com/mllawson-dev/waymark) |
-| **CineVault** | A React movie-discovery app. The OMDb API key lives in a server function on Vercel, out of the browser | [Live](https://cinevault-mll.vercel.app/) · [Case study](https://www.mll-creativeeng.com/case-studies/cinevault/) · [Code](https://github.com/mllawson-dev/cinevault-react) |
+| **Forge City Circuit** | A single-page app with no framework: a hand-written hash router and a JSON data layer that drives standings, schedules and playoff brackets | [Live](https://forge-city-circuit.vercel.app/) · [Case&nbsp;study](https://www.mll-creativeeng.com/case-studies/forge-city-circuit/) · [Code](https://github.com/mllawson-dev/forge-city-circuit) |
+| **Waymark** | A multi-route React and TypeScript app built on a documented component library and design tokens, with 121 tests | [Live](https://waymark-steel.vercel.app/) · [Case&nbsp;study](https://www.mll-creativeeng.com/case-studies/waymark/) · [Code](https://github.com/mllawson-dev/waymark) |
+| **CineVault** | A React movie-discovery app. The OMDb API key lives in a server function on Vercel, out of the browser | [Live](https://cinevault-mll.vercel.app/) · [Case&nbsp;study](https://www.mll-creativeeng.com/case-studies/cinevault/) · [Code](https://github.com/mllawson-dev/cinevault-react) |
 
 More: [Visit Knob Noster](https://github.com/mllawson-dev/Visit-Knob-Noster-MO) · [Evergrace Music](https://github.com/mllawson-dev/evergrace-music) · [The Kindred Fire](https://github.com/mllawson-dev/kindred-fire)
 
